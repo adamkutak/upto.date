@@ -1,0 +1,9 @@
+#install all requirements with "pip install -r requirements.txt"
+
+openai
+langchain
+pypdf
+tiktoken
+python-dotenv
+chromadb
+bs4
